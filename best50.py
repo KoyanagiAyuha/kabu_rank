@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from pandas_datareader import data
 from sklearn.preprocessing import MinMaxScaler
 import pandas.tseries.offsets as offsets
